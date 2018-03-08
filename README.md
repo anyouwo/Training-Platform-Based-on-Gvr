@@ -2,4 +2,4 @@
 Development of Metalworking Training Platform Based on Gvr
 
 
-The first pull u
+The first pull up
